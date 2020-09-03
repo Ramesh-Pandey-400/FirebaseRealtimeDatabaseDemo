@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953878831946",
+    "firebase_url": "https://fir-realtimedatabasedemo-c3f22.firebaseio.com",
+    "project_id": "fir-realtimedatabasedemo-c3f22",
+    "storage_bucket": "fir-realtimedatabasedemo-c3f22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953878831946:android:4349422fe676d4b47197b3",
+        "android_client_info": {
+          "package_name": "com.rameshpandey.firebaserealtimedatabasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953878831946-e27usrop93phfjr47d9qrms4se3bn190.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4q4jgdLOtUtDq0vnra8Yj9ugCsmLWtLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953878831946-e27usrop93phfjr47d9qrms4se3bn190.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
